@@ -59,7 +59,7 @@ Exemplo de requisição POST (JSON):
 {
   "titulo": "Clean Code",
   "autor": "Robert C. Martin",
-  "isbn": "9780132350884"
+  "ano": "2026"
 }
 🧪 Testes
 
